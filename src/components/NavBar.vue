@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <nav class="navbar navbar-expand-lg bg-dark">
     <div class="container-fluid">
       <img
         src="https://thumbs.dreamstime.com/b/vector-logo-coding-companies-company-199205353.jpg"
